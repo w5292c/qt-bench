@@ -26,10 +26,6 @@
 #include <QTranslator>
 #include <QCoreApplication>
 
-#ifdef QT_NO_TRANSLATION
-#error Here it is
-#endif
-
 int main(int argc, char **argv)
 {
   QCoreApplication app(argc, argv);
