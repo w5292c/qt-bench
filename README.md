@@ -20,3 +20,9 @@ Possible steps to build and try:
 * qtbase5-dev
 * qt5-qmake-bin
 * qttools5-dev-tools
+
+# Usefull links
+* [Internationalization with Qt](https://doc.qt.io/qt-6/internationalization.html)
+* [Translation Rules for Plurals](https://doc.qt.io/qt-6/i18n-plural-rules.html)
+* [Qt Linguist Manual: TS File Format](https://doc.qt.io/qt-6/linguist-ts-file-format.html)
+* [Qt Linguist Manual: Text ID Based Translations](https://doc.qt.io/qt-6/linguist-id-based-i18n.html)
