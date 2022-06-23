@@ -10,7 +10,7 @@ Possible steps to build and try:
 * mkdir build && cd build
 * qmake ..
 * make
-* # app is ready, try in Engish/German/Russian locales
+The ```qt-bench``` app is ready, try in Engish/German/Russian locales
 * ./qt-bench en
 * ./qt-bench de
 * ./qt-bench ru
