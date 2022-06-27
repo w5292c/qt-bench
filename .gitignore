@@ -1,2 +1,3 @@
 languages/*.qm
+plugin-example/languages/*.qm
 build/*

@@ -15,6 +15,18 @@ Possible steps to build and try:
 * ./qt-bench de
 * ./qt-bench ru
 
+# Localization support in a plug-in
+* mkdir build/
+* cd plugin-example/
+* ./update-translations.sh
+* cd ../build/
+* cmake ..
+* make
+  * The example is ready, can now be tried like this:
+* ./plugin-example/client/client en
+* ./plugin-example/client/client de
+* ./plugin-example/client/client ru
+
 # Build dependencies (Debian 11):
 * qtchooser
 * qtbase5-dev
